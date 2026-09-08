@@ -1,0 +1,1 @@
+le but de ce projet gitlab est de stocker le code correspondant à la partition qui sera utilisée pour le récital LA CLINIQUE DES AMOURS, histoire de thibaud mercier, musique de compositeurs divers, grâce à la contribution précieuse de laurent amourette
