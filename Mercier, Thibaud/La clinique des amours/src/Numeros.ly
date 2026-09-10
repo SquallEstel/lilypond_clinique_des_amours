@@ -1,0 +1,25 @@
+\version "2.24.3"
+
+% Acte 1
+\include "0. Satie/0.ly"
+\include "1. Berlioz/1.ly"
+\include "2. Offenbach/2.ly"
+\include "3. Massenet/3.ly"
+\include "4. Bizet/4.ly"
+\include "5. Gounod/5.ly"
+\include "6. Delibes/6.ly"
+\include "7. Poulenc/7.ly"
+
+% Acte 2
+\include "8a. Ravel/8a.ly"
+\include "8. Lalo/8.ly"
+\include "9. Debussy/9.ly"
+\include "10. Terrasse/10.ly"
+\include "11. Donizetti/11.ly"
+\include "11b. Faure/11b.ly"
+\include "12. Verdi/12.ly"
+\include "13. Hahn/13.ly"
+\include "14. SaintSaens/14.ly"
+\include "15. Duparc/15.ly"
+\include "16. Ibert/16.ly"
+\include "17. Rameau/17.ly"
