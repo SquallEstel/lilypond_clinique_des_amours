@@ -1,7 +1,6 @@
 \version "2.24.3"
 
 \include "Voix.ly"
-\include "Mimi.ly"
 \include "Donjuan.ly"
 \include "Pierrot.ly"
 \include "Donquichotte.ly"
@@ -16,8 +15,6 @@
     perso = \"Personnages 4"
   }
   <<
-    \new Staff \with { } \"Mimi 4"
-    \addlyrics { \tiny \"Paroles Mimi 4" }
     \new Staff \with { } \"Voix 4"
     \addlyrics { \tiny \"Paroles Voix 4" }
     \new Staff \with { } \"Donjuan 4"

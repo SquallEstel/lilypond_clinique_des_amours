@@ -105,8 +105,12 @@
   }
 }
 
-\Dialogue "Tous"
-"Non."
+\Dialogue \TOUS ""
+\markup {
+  \wordwrap {
+    Non.
+  }
+}
 
 \Dialogue \DDJ ""
 \markup {
