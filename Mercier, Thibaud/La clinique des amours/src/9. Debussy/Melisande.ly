@@ -5,7 +5,7 @@
   \ParamChant
   \key e \major
   \time 6/4
-  %{ 1 %} R1*12
+  %{ 1 %} R1.*12
   
   %{ 1 %} R1.*8
   %{ 9 %} \PM r8 e'' r4 bes8 d d2 g,4
