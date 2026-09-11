@@ -99,9 +99,9 @@
   Non! el -- le ne m'ai -- me pas,
   El -- le ne m'ai -- me pas!
   Où suis je?
-  ces flam -- beaux sont con -- su -- més,
-  l'au -- rore ar -- gen -- te ces vi -- traux,
-  Voi -- ci le jour…
+  Le So -- leil est con -- su -- mé,
+  le -- soir co -- lo -- re ces vi -- traux,
+  Voi -- ci la nuit…
   Hé -- las!
   le som -- meil sa -- lu -- tai -- re,
   Le doux som -- meil a fui pour ja -- mais
@@ -116,8 +116,8 @@
   Ah! si la ro -- yau -- té
   nous don -- nait le pou -- voir de lire __ au fond des cœurs
   où Dieu seul peut tout voir!
-  Si le Roi dort, la tra -- hi -- son se tra -- me,
-  on lui ra -- vit sa cou -- ron -- ne_et sa fem -- me!
+  Si le Roi plonge, il se noie -- ra dans l'on -- de,
+  et il noie -- ra sa tris -- tes -- se pro -- fon -- de!
   Je dor -- mi -- rai dans mon man -- teau roy -- al
   quand son -- ne -- ra pour moi l'heu -- re der -- niè -- re,
   je dor -- mi -- rai sous les voû -- tes de pier -- re,

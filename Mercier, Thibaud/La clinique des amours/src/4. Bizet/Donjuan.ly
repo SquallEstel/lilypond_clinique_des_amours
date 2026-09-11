@@ -19,7 +19,7 @@
   %{ 27 %} cis!8 a a cis
   %{ 28 %} d8 r r4
   %{ 29 %} R2*7
-  %{ 36 %} \PDJP r8. a16\f d8 e
+  %{ 36 %} \PDJ r8. a16\f d8 e
   %{ 37 %} fis8 r r4
   %{ 38 %} R2*2
   %{ 40 %} r8. b,16\f e8 fis
@@ -37,7 +37,7 @@
   %{ 52 %} fis8 r16 a,\f d8 e
   %{ 53 %} fis8 r r4
   %{ 54 %} R2*2
-  %{ 56 %} \PDJP r8. b,16\f e8 fis
+  %{ 56 %} \PDJ r8. b,16\f e8 fis
   %{ 57 %} g8 r r4
   %{ 58 %} R2
   %{ 59 %} << { cis,2\fermata\p } { s8. \Annot "H" #'( "cresc." ) s16 s4 } >>
@@ -61,7 +61,7 @@
   %{ 27 %} cis!8 a a cis
   %{ 28 %} d8 r r4
   %{ 29 %} R2*7
-  %{ 36 %} \PDJP r8. a16\f d8 e
+  %{ 36 %} \PDJ r8. a16\f d8 e
   %{ 37 %} fis8 r r4
   %{ 38 %} R2*2
   %{ 40 %} r8. b,16\f e8 fis
@@ -79,7 +79,7 @@
   %{ 52 %} fis8 r16 a,\f d8 e
   %{ 53 %} fis8 r r4
   %{ 54 %} R2*2
-  %{ 56 %} \PDJP r8. b,16\f e8 fis
+  %{ 56 %} \PDJ r8. b,16\f e8 fis
   %{ 57 %} g8 r r4
   %{ 58 %} R2
   %{ 59 %} << { cis,2\fermata\p } { s8. \Annot "H" #'( "cresc." ) s16 s4 } >>

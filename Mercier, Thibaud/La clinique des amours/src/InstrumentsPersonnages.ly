@@ -5,6 +5,7 @@ DE = "Esmeralda"
 DDQ = "Don Quichotte"
 DM = "Mimi"
 DP = "Pierrot"
+TOUS = "Tous"
 
 PDJ = \PersoLabel \DDJ "D.J."
 PE = \PersoLabel \DE "E."

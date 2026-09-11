@@ -25,7 +25,7 @@
 \Dialogue \DDQ ""
 \markup {
   \wordwrap {
-    prête-moi ta plume.
+    Prête-moi ta plume.
   }
 }
 

@@ -25,7 +25,7 @@
 \Dialogue \DE ""
 \markup {
   \wordwrap {
-    tu ne devines pas ? Il lui a pris… qu’il l’aime.
+    Tu ne devines pas ? Il lui a pris… qu’il l’aime.
   }
 }
 
